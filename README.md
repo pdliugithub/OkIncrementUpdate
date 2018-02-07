@@ -7,13 +7,13 @@
 
 [![My logo](https://avatars2.githubusercontent.com/u/18112904?s=400&u=0c9b3829937d677b3aaaf2783747fadbfaf1c33d&v=4)]
 
-***
+### Renderings
 
-[![Generate difference package.]](/gifs/gif_30.gif)
+[![Generate difference package.](/gifs/gif_30.gif)]
 
-[![Synthetic differential package]](/gifs/gif_50.gif)
+[![Synthetic differential package](/gifs/gif_50.gif)]
 
-[![Update app]](/gifs/gif_end.gif)
+[![Update app](/gifs/gif_end.gif)]
 
 # Usage:
 
