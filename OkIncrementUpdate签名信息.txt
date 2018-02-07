@@ -1,0 +1,15 @@
+Ç©Ãû£º
+
+keystore:
+file: keystore.jks
+pw:keystore123456
+
+key:
+Alias: key1
+pw:key123456
+first and last name : update
+organizational unit: china
+organization:china
+city or locality:china
+state or province:china
+country code :china

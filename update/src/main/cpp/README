@@ -1,0 +1,6 @@
+
+
+--bzip2 --{
+--diff  --{生成差异包
+--patch --{合并差异包
+--CMakeLists.txt --{ndk 开发的主入口指向，在build gradle中配置

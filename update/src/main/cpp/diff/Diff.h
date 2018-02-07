@@ -1,0 +1,8 @@
+//
+// Created by mypro on 2018/1/28.
+//
+
+#ifndef PRACTISE31_NDK_BSDIFF_DIFF_H
+#define PRACTISE31_NDK_BSDIFF_DIFF_H
+
+#endif //PRACTISE31_NDK_BSDIFF_DIFF_H
