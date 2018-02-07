@@ -44,7 +44,7 @@
      Step 2. 添加依赖关系.
      ```
      dependencies {
-          	  compile 'com.github.pdliugithub:OkIncrementUpdate:v1.0' // v1.0 ---> 修改为最近版本号.
+          	  compile 'com.github.pdliugithub:OkIncrementUpdate:v1.1' // v1.0 ---> 修改为最近版本号.
           }
      ```
 

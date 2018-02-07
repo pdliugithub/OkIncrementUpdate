@@ -31,7 +31,7 @@
      Step 2. Add the dependency.
      ```
      dependencies {
-          	  compile 'com.github.pdliugithub:OkIncrementUpdate:v1.0' // v1.0 ---> The latest version.
+          	  compile 'com.github.pdliugithub:OkIncrementUpdate:v1.1' // v1.0 ---> The latest version.
           }
      ```
 
