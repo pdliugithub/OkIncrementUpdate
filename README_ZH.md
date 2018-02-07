@@ -64,7 +64,8 @@
         //已经安装的版本路径 \ 合并差量包后的存放路径 \ 差量包路径.
         PatchUtils.patch(String oldApkPath, String newApkPath, String patchPath);
 
-
+####感谢
+    Ť特别感谢：SvenWang给与的帮助
 ***
 
 
