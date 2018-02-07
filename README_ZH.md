@@ -7,6 +7,20 @@
 
 [![My logo](https://avatars2.githubusercontent.com/u/18112904?s=400&u=0c9b3829937d677b3aaaf2783747fadbfaf1c33d&v=4)]
 
+*** 效果图1、2、3
+
+[![拷贝、分包]](/gifs/gif_30.gif)
+
+[![合并]](/gifs/gif_50.gif)
+
+[![更新]](/gifs/gif_end.gif)
+
+## 实现如效果图步骤
+    1、安装
+[Apk](/apks/app-release.apk)
+
+    2、按照效果图步骤即可实现效果图样式
+
 # 使用:
 
     Step1:将其添加到您的根build.gradle存储库的末尾：
