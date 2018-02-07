@@ -9,11 +9,11 @@
 
 ### 效果图1、2、3
 
-![拷贝、分包]](/gifs/gif_30.gif "gif")
+[![拷贝、分包](/gifs/gif_30.gif)]
 
-![合并]](/gifs/gif_50.gif)
+[![合并](/gifs/gif_50.gif)]
 
-![更新]](/gifs/gif_end.gif)
+[![更新](/gifs/gif_end.gif)]
 
 ## 实现如效果图步骤
     1、安装
